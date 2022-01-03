@@ -1,7 +1,4 @@
-<img align="center" height="auto" src="https://github.com/MhankBarBar/MhankBarBar/blob/master/img/1.jpg"/>
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mhankbarbar&repo=termux-wabot&theme=auto)](https://github.com/mhankbarbar/termux-wabot)
+<img align="center" height="auto" src="https://uploader.caliph.my.id/file/4TZyJ5.jpg"/>
 
 ---
 ```python
