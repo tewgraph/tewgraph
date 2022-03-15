@@ -6,7 +6,7 @@ Hola Mi nombre es Kevin Y
 Sigo siendo un estudiante
 
 • Tengo 20 años
-• actualmente me estoy enfocando en TypeScript,
+• actualmente me estoy enfocando en TypeScript, JavaScript
   html & css
 • La Programación es solo mi hobbie.
 ```
