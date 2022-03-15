@@ -17,7 +17,7 @@ Sigo siendo un estudiante
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
   </a>
   <a href="https://wa.me/50768666666" target="_blank">
-    <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
+    <img src="https://img.shields.io/badge/whatsapp-%2312100E.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&color=071A2C" alt="YouTube"/>
   </a>
 </p>
 <p align="center">
