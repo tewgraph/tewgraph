@@ -1,18 +1,52 @@
-<img align="center" height="auto" src="https://uploader.caliph.my.id/file/4TZyJ5.jpg"/>
+<h2 align="center"><i><small>Bienvenido a mi perfil 👀</h2>
+<h3 align="center">Sobre Mi?</h3>
 
----
-```python
-class say_hello:
+```rb
+Hola Mi nombre es Kevin Y
+Sigo siendo un estudiante
 
-    def __init__(self, text) -> None:
-        self.text = text
-
-    def __str__(self) -> str:
-        return self.text
-
-    def __repr__(self) -> str:
-        return self.__str__()
-
-if __name__ == "__main__":
-    print(say_hello("Hola 👋, Yo soy Kvnxnl, Encantado de conocerlos a todos!"))
+• Tengo 20 años
+• actualmente me estoy enfocando en TypeScript,
+  html & css
+• La Programación es solo mi hobbie.
 ```
+<br>
+<details align="center"><summary><b>Conectate conmigo 👋</b></summary><br>
+<p align="center">
+  <a href="https://instagram.com/xnia7" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  <a href="https://youtube.com/xnia7" target="_blank">
+    <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=071A2C" alt="YouTube"/>
+  </a>
+</p>
+<p align="center">
+<a href="https://facebook.com/xnia" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%2312100E.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+  </a>
+</p>
+</details>
+
+<details align="center"><summary><b>Knowledges ✨</b></summary><br>
+
+<p align="center">
+  <img alt="html" src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
+  <img alt="css" src="https://img.shields.io/badge/CSS-00000?style=for-the-badge&logo=css3">
+  <img alt="javascript" src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript">
+  <img alt="python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python">
+  <img alt="php" src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php">
+  <img alt="typescript" src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript">
+ </p>
+</details>
+
+<details align="center"><summary><b>Github Statistics 💤</b></summary><br>
+  
+<div align="center">
+<a href="Kevxnl"><img src="https://komarev.com/ghpvc/?username=Kevxnl&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Kevxnl" /></a>
+<br>
+<a href="https://github.com/Kevxnl"><img src="https://github-readme-stats.vercel.app/api?username=Kevxnl&bg_color=071A2C&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></>
+<a href="https://github.com/Kevxnl"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azyansah&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevxnl&bg_color=071A2C" />
+<a href="https://github.com/Kevxnl/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kevxnl&theme=onedark" /></a>
+</div>
+</details>
