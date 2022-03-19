@@ -42,7 +42,6 @@ Sigo siendo un estudiante
 <details align="center"><summary><b>Github Estadísticas 💤</b></summary><br>
   
 <div align="center">
-<a href="Kevxnl"><img src="https://komarev.com/ghpvc/?username=Kevxnl&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="Kevxnl" /></a>
 <br>
 <a href="https://github.com/Kevxnl"><img src="https://github-readme-stats.vercel.app/api?username=Kevxnl&bg_color=071A2C&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></>
 <a href="https://github.com/Kevxnl"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azyansah&bg_color=071A2C&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
