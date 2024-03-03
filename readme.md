@@ -4,7 +4,7 @@
 ```rb
 Hello, my name is Swamp and I am still a student.
 
-• I am 20 years
+• I am 22 years
 • I am currently focusing on TypeScript, JavaScript,
   html and css
 • Programming is just my hobby.
