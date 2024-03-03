@@ -1,5 +1,5 @@
-<h2 align="center"><i><small>Bienvenido a mi perfil 👀</h2>
-<h3 align="center">Sobre Mi?</h3>
+<h2 align="center"><i><small>Welcome to my profile 👀</h2>
+<h3 align="center">About me?</h3>
 
 ```rb
 Hello, my name is Swamp and I am still a student.
